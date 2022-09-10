@@ -1,0 +1,4 @@
+#!/bin/bash
+cat /etc/passwd >  log.`date +%y%m%d`
+echo done!
+

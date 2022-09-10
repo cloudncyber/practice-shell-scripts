@@ -1,0 +1,6 @@
+#!/bin/bash
+#this script displays the date and who is logged on
+echo -n The time and date are: 
+date
+echo "Let's see who is logged into the system:"
+who

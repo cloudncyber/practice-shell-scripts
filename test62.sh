@@ -1,0 +1,13 @@
+#!/bin/bash
+#testing a multifunction script
+#
+name=$(basename $0)
+#
+if [ $name = "addem" ]
+then
+ echo total=$[ $1 + $2 ]
+elif [ $name = "multem" ]
+then
+ echo total=$[ $1 * $2 ]
+fi
+#updating this to reflect new change

@@ -1,0 +1,26 @@
+top ten disk space usage
+for /var/log /home directories
+
+the /var/log Directory:
+1:	1974588	/var/log/journal/e22790668d3b4b298139ded996c73f31
+2:	9116	/var/log
+3:	1108	/var/log/dist-upgrade/20220519-0842
+4:	1032	/var/log/os-uninstaller/20220812_153942/nvme0n1
+5:	880	/var/log/installer
+6:	800	/var/log/dist-upgrade/20220812-1248
+7:	724	/var/log/dist-upgrade
+8:	368	/var/log/apt
+9:	104	/var/log/unattended-upgrades
+10:	48	/var/log/cups
+
+the /home Directory:
+1:	26234972	/home/jide/Videos
+2:	4968640	/home/jide/Public/motherland
+3:	4644476	/home/jide/Public
+4:	4316176	/home/jide/Desktop/osisi/osisi-admin/.next/cache/webpack/client-development
+5:	3665052	/home/jide/Videos/bridgerton
+6:	2733068	/home/jide/Videos/the
+7:	2196584	/home/jide/Videos/The.Sandman
+8:	1992976	/home/jide/Videos/AWS
+9:	1927424	/home/jide/Videos/the
+10:	1905248	/home/jide/Videos/bridgerton/tfpdl-bdtnS02-PACK

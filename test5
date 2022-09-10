@@ -1,0 +1,9 @@
+#!/bin/bash
+today=`date +%y%m%d`
+simple_date=$(date)
+echo "today's date: $today"
+echo "simple date $simple_date"
+ls /usr/bin -al > newlog.$today
+echo $BASH_SUBSHELL
+echo $today
+
